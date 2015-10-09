@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Day 1"
+date:   2015-10-10 21:34:22
+categories: bicycletouring china confused
+---
 After a 24 hour long journey I finally made it to Shanghai. I was
 welcomed by the border police with a special check up because they were
 questioning a scratched entry page in my passport. I told them well that
